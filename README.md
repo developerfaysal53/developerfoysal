@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developerfoysal
+- 👋 Hi, I’m @developerfaysal
 - 👀 I’m interested in Learning, Coding & Traveling
 - 🌱 I’m currently learning JavaScript, Php, JQuery
 - 💞️ I’m looking to collaborate on HTML, CSS, Bootstrap, Wordpress.
